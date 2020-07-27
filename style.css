@@ -1,0 +1,33 @@
+body {
+	background:#055353;
+	color:white;
+	}
+	
+body a{
+	color:white;
+	text-decoration:none;
+}
+
+body a:hover {
+	color:maroon;
+}
+
+.container{
+	background:white;
+}
+
+body table th{
+	background:black;
+	border:none;
+	padding:10px;
+}
+
+body table td{
+	background:#055353;
+	border:none;
+	padding:5px;
+}
+
+body table td:hover{
+	background:green;
+}
